@@ -12,7 +12,7 @@ Axie was designed to introduce the world to an exciting new technology called Bl
 
 One day, huge waves of monsters unexpectedly attacked our Axies' village. As an outpost watcher (and also a cute Axie), your mission is to eliminate as many of them as possible.
 
-You can stop them by throwing "fireballs". At least this will cause damages and stop some (or all) of them. 
+You can stop these monsters by throwing "fireballs". At least this will cause damages and stop some (or all) of them. 
 
 In order to throw these "fireballs", you must calculate 2 parameters:
 
@@ -21,7 +21,7 @@ In order to throw these "fireballs", you must calculate 2 parameters:
 
 Sounds like an artillery-style game, doesn't it?
 
-![img_1.png](img_1.png)
+![img.png](readme/img.png)
 
 > **Notes**:
 >  
